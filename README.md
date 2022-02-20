@@ -1,0 +1,2 @@
+# DjangoNextJS
+Django NextJS
